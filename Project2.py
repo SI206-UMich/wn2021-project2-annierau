@@ -1,7 +1,7 @@
-# Name: Renuka Murthi
-# Student ID: 16826716
-# Email: rmurthi@umich.edu
-# Partner: Annie Rauwerda
+# Name: Annie Rauwerda
+# Student ID: 61846830
+# Email: annierau@umich.edu
+# Partner: Renuka Murthi
 
 from bs4 import BeautifulSoup
 import requests
